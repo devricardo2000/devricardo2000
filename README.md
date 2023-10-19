@@ -18,6 +18,7 @@
 - ⚡ Fun fact **I'm a gamer**
 
 <h3 align="left">Connect with me:</h3>
+[<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg' alt='github' height='40'>](https://github.com/devricardo2000)
 <p align="left">
 </p>
 
