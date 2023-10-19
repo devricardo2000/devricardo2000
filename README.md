@@ -46,7 +46,6 @@
 ### 📊 Stats
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devricardo2000&show_icons=true&locale=en&theme=tokyonight" alt="devricardo2000">
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devricardo2000&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-   <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=devricardo2000&theme=tokyonight"/>
 
 </div>
 
