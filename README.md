@@ -41,11 +41,9 @@
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' alt='reactjs' height='40'>](https://reactjs.org/)
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' alt='nodejs' height='40'>](https://nodejs.org/en/)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devricardo2000&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="devricardo2000" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devricardo2000&show_icons=true&locale=en&theme=tokyonight" alt="devricardo2000" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devricardo2000&theme=tokyonight" alt="devricardo2000" /></p>
+### 📊 Stats
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devricardo2000&show_icons=true&locale=en&theme=tokyonight" alt="devricardo2000">
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devricardo2000&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
 
 
 
