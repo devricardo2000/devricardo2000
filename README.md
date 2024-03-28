@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Bernardes</h1>
 <h3 align="center">Just a normal person trying to learn how to code at @ISEP</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTYzdzM2dGF0M3Z4eHR1azNmMzFrdDdhYTJvMHBnYXIwZmJzZW9wZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="400" src="fhttps://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devricardo2000&label=Profile%20views&color=0e75b6&style=flat" alt="devricardo2000" /> </p>
 
